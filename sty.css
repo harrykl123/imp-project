@@ -1,0 +1,155 @@
+/* index */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.a{
+    height: 70px;
+}
+.box1{
+    background-color: lightblue;
+    display: flex;
+    position:sticky;
+    top: 0px;
+}
+.b{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 700px;
+    gap: 30px;
+
+}
+.h{
+    color: black;
+    text-decoration: none;
+}
+.h:hover{
+    color: darkorange;
+}
+
+.box2{
+    height: 700px;
+    background-image: url('https://wallpaperaccess.com/full/112722.jpg');
+    background-size: cover;
+}
+
+.c{
+    font-size: 40px;
+    text-align: center;
+    color: #A80874;
+    font-weight: 700;
+    padding-top:250px;
+    font-family: monospace;
+}
+.d{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+    padding-top:10px;
+    color: #DB5A42;
+    font-family: monospace;
+}
+.b1{
+    margin-left: 600px;
+    margin-top: 15px;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: aqua;
+    border: none;
+    box-shadow: 2px 2px 10px lightgreen;
+    font-family: monospace;
+}
+.b1:hover{
+    background-color: azure;
+    cursor: pointer;
+}
+.e{
+    font-size: 23px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 50px;
+    font-family: monospace;
+}
+.parent{
+    display: flex;
+    gap: 30px;
+    margin-left: 25px;
+    margin-top: 40px;
+    text-align: center;
+}
+.d1{
+    height: 100px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 10px;
+    padding-top: 40px;
+    font-family: monospace;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px gray;
+}
+.d1:hover{
+    background-color:darkcyan;
+}
+.e1{
+    height: 300px;
+    background-color: #333032;
+    font-family: monospace;
+    margin-top: 100px;
+    color: white;
+}
+.w1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.w2{
+    color: white;
+    height: 100px;
+    width: 260px;
+    background-color: rgb(39, 37, 37);
+    margin-left: 400px;
+    margin-top: 40px;
+    border-radius: 10px;
+    padding-top: 25px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px rgb(43, 39, 39);
+}
+.w3{
+    color: white;
+    height: 100px;
+    width: 260px;
+    background-color: rgb(39, 37, 37);
+    margin-left: 700px;
+    margin-top: -99px;
+    border-radius: 10px;
+    padding-top: 25px;
+    text-align: center;
+    box-sizing: border-box;
+     box-shadow: 5px 5px 10px rgb(43, 39, 39);
+}
+.l1{
+    color: white;
+    height: 30px;
+    background-color: black;
+    padding-top: 15px;
+    text-align: center;
+    font-family: monospace;
+}
+
+/* service */
+
+
+
+
+
+/* clients */
+
+
+
+
+
+
+/* contacts */

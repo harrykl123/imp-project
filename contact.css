@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(129, 175, 175);
+}
+.H1{
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-top: 25px;
+    color: white;
+    font-weight: 100;
+}
+.m1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.m2{
+    margin-left: 200px;
+    color: black;
+}
+.m3{
+    width: 400px;
+    height: 40px;
+    border: 1px solid white;
+}
+.m4{
+    margin-top: 2px;
+    width: 400px;
+    height: 40px;
+    border: 1px solid white;
+}
+.m5{
+    margin-left: 200px;
+    color: black;
+    width: 100px;
+    height: 40px;
+    background-color: grey;
+}
+.m5:hover{
+    background-color: rgb(219, 65, 65);
+    color: white;
+}
+.g1{
+    margin-left: 900px;
+    margin-top: -550px;
+    font-size: 20px;
+}
+.g2{
+    margin-left: 950px;
+    font-size: 20px;
+}
+.g3{
+    margin-left: 950px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.g4{
+    margin-left: 950px;
+    margin-top: 50px;
+    font-size: 20px;
+}

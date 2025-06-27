@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.a{
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: rgb(95, 150, 150);
+}
+.a1{
+    height: 500px;
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 10px rgb(14, 80, 80);
+}

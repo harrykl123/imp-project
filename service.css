@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(35, 35, 78)  ;
+    margin: 0px;
+    padding: 0px;
+}
+.y1{
+    gap: 15px;
+    margin-left: 560px;
+    margin-top: 20px;
+}
+.y2{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+.y3{
+    gap: 30px;
+    display: flex;
+    margin-top: 60px;
+}
+.y4{
+    box-shadow: 5px 5px 10px rgb(52, 52, 119);
+    box-sizing: border-box;
+    padding-top: 100px;
+    text-align: center;
+    color: WHITE;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+    border: 0.5px solid rgb(41, 61, 117);
+    font-family: monospace;
+}
+.y5{
+    margin-top: 30px;
+    color: white;
+    height: 30px;
+    background-color: black;
+    padding-top: 15px;
+    text-align: center;
+    font-family: monospace;
+}
